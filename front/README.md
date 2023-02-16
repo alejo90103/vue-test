@@ -1,7 +1,3 @@
-# client
-
-> mailing
-
 ## Build Setup
 
 ``` bash
